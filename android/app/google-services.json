@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96968576471",
+    "project_id": "enova-robotics",
+    "storage_bucket": "enova-robotics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96968576471:android:c545ed56dd5265816d0f92",
+        "android_client_info": {
+          "package_name": "com.example.application_enova_robotics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96968576471-4g1lm0b1uur9nrb9d2rp7rnptkd62enk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBua4fuXYINEjd8aYBMRh2_i6UOTzgFD7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96968576471-4g1lm0b1uur9nrb9d2rp7rnptkd62enk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
